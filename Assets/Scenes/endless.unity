@@ -651,8 +651,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e21efcf381046cc4abe2f417195da926, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  forwardSpeed: 8
-  turningSpeed: 2
+  forwardSpeed: 10
+  turningSpeed: 4
   jumpPower: 6
   enemyTag: trap
   coinTag: coin
